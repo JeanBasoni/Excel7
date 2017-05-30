@@ -1,0 +1,11 @@
+C:\Projetos\JeanBasoni\Excel7\Excel7\Arquivo\bin\Debug\Arquivo.dll
+C:\Projetos\JeanBasoni\Excel7\Excel7\Arquivo\bin\Debug\Arquivo.pdb
+C:\Projetos\JeanBasoni\Excel7\Excel7\Arquivo\bin\Debug\EPPlus.dll
+C:\Projetos\JeanBasoni\Excel7\Excel7\Arquivo\bin\Debug\EPPlus.xml
+C:\Projetos\JeanBasoni\Excel7\Excel7\Arquivo\obj\Debug\Arquivo.dll
+C:\Projetos\JeanBasoni\Excel7\Excel7\Arquivo\obj\Debug\Arquivo.pdb
+C:\Users\Meu computador\Downloads\Excel7 (1)\Excel7\Excel7\Arquivo\bin\Debug\Arquivo.dll
+C:\Users\Meu computador\Downloads\Excel7 (1)\Excel7\Excel7\Arquivo\bin\Debug\Arquivo.pdb
+C:\Users\Meu computador\Downloads\Excel7 (1)\Excel7\Excel7\Arquivo\obj\Debug\Arquivo.dll
+C:\Users\Meu computador\Downloads\Excel7 (1)\Excel7\Excel7\Arquivo\obj\Debug\Arquivo.pdb
+C:\Users\Meu computador\Downloads\Excel7 (1)\Excel7\Excel7\Arquivo\obj\Debug\Arquivo.csprojResolveAssemblyReference.cache

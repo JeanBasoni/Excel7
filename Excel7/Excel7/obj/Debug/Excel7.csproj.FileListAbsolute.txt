@@ -1,0 +1,20 @@
+C:\Projetos\JeanBasoni\Excel7\Excel7\Excel7\bin\Excel7.dll.config
+C:\Projetos\JeanBasoni\Excel7\Excel7\Excel7\bin\Excel7.dll
+C:\Projetos\JeanBasoni\Excel7\Excel7\Excel7\bin\Excel7.pdb
+C:\Projetos\JeanBasoni\Excel7\Excel7\Excel7\obj\Debug\Excel7.dll
+C:\Projetos\JeanBasoni\Excel7\Excel7\Excel7\obj\Debug\Excel7.pdb
+C:\Projetos\JeanBasoni\Excel7\Excel7\Excel7\bin\EPPlus.dll
+C:\Projetos\JeanBasoni\Excel7\Excel7\Excel7\bin\EPPlus.xml
+C:\Projetos\JeanBasoni\Excel7\Excel7\Excel7\obj\Debug\Excel7.csprojResolveAssemblyReference.cache
+C:\Projetos\JeanBasoni\Excel7\Excel7\Excel7\bin\Arquivo.dll
+C:\Projetos\JeanBasoni\Excel7\Excel7\Excel7\bin\Arquivo.pdb
+C:\Users\Meu computador\Downloads\Excel7 (1)\Excel7\Excel7\Excel7\bin\Excel7.dll.config
+C:\Users\Meu computador\Downloads\Excel7 (1)\Excel7\Excel7\Excel7\bin\Excel7.dll
+C:\Users\Meu computador\Downloads\Excel7 (1)\Excel7\Excel7\Excel7\bin\Excel7.pdb
+C:\Users\Meu computador\Downloads\Excel7 (1)\Excel7\Excel7\Excel7\bin\Arquivo.dll
+C:\Users\Meu computador\Downloads\Excel7 (1)\Excel7\Excel7\Excel7\bin\Arquivo.pdb
+C:\Users\Meu computador\Downloads\Excel7 (1)\Excel7\Excel7\Excel7\obj\Debug\Excel7.csprojResolveAssemblyReference.cache
+C:\Users\Meu computador\Downloads\Excel7 (1)\Excel7\Excel7\Excel7\obj\Debug\Excel7.dll
+C:\Users\Meu computador\Downloads\Excel7 (1)\Excel7\Excel7\Excel7\obj\Debug\Excel7.pdb
+C:\Users\Meu computador\Downloads\Excel7 (1)\Excel7\Excel7\Excel7\bin\DB.dll
+C:\Users\Meu computador\Downloads\Excel7 (1)\Excel7\Excel7\Excel7\bin\DB.pdb

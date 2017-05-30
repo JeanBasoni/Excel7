@@ -1,0 +1,5 @@
+C:\Users\Meu computador\Downloads\Excel7 (1)\Excel7\Excel7\DB\bin\Debug\DB.dll
+C:\Users\Meu computador\Downloads\Excel7 (1)\Excel7\Excel7\DB\bin\Debug\DB.pdb
+C:\Users\Meu computador\Downloads\Excel7 (1)\Excel7\Excel7\DB\obj\Debug\DB.dll
+C:\Users\Meu computador\Downloads\Excel7 (1)\Excel7\Excel7\DB\obj\Debug\DB.pdb
+C:\Users\Meu computador\Downloads\Excel7 (1)\Excel7\Excel7\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
